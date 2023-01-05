@@ -5,3 +5,7 @@
       a. RS: PB11, E: PA11
       
       b. D4: PC7, D5: PC6, D6: PB13, D7: PB12
+      
+      c. 40Mhz
+      
+      d. low
