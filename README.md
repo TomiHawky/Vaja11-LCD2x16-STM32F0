@@ -7,7 +7,7 @@
       - 168Mhz   
       - low    
       - X= 0-16, Y=0-2
-      - Spremeni **int** na **string** ,       
+      - Spremeni int na string ,       
          TM_HD44780_PUT vzame string zato ga moramo spremeniti iz številke,
          z zadnjo vrednost določimo vrsto, 10 pomeni desetiško, 2 binarno, 16 heksadecimalno
          
