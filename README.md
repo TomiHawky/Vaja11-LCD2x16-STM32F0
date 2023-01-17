@@ -15,8 +15,9 @@
 ![Pinout](https://raw.githubusercontent.com/TomiHawky/Vaja11-LCD2x16-STM32F0/main/Screenshot%202023-01-17%20155737.png)
 
 ## Vezje
-![Vezje](https://raw.githubusercontent.com/TomiHawky/Vaja11-LCD2x16-STM32F0/blob/main/IMG_20230117_085352.jpg)
-![Vezje](https://raw.githubusercontent.com/TomiHawky/Vaja11-LCD2x16-STM32F0/blob/main/IMG_20230117_091808.jpg)
+![Vezje](https://raw.githubusercontent.com/TomiHawky/Vaja11-LCD2x16-STM32F0/main/IMG_20230117_085352.jpg)
+![Vezje](https://raw.githubusercontent.com/TomiHawky/Vaja11-LCD2x16-STM32F0/main/IMG_20230117_091808.jpg)
+
 ##Komentat
 
 - Naloga je bila namenjena za Nucleo razvojo ploščo, ampak dana knjižnica ne podpirna stm32-L serije procesorje #to sem odkril po četrti uri#
